@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/vipstar-dev/node-stratum-pool-vips",
+    "homepage": "https://github.com/VIPSTARCOIN-MV/node-stratum-pool-vipsmv",
     "bugs": {
-        "url": "https://github.com/vipstar-dev/node-stratum-pool-vips/issues"
+        "url": "https://github.com/VIPSTARCOIN-MV/node-stratum-pool-vipsmv/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/vipstar-dev/node-stratum-pool-vips.git"
+        "url": "https://github.com/VIPSTARCOIN-MV/node-stratum-pool-vipsmv.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/vipstar-dev/node-multi-hashing-vips.git",
+        "multi-hashing": "git://github.com/VIPSTARCOIN-MV/node-multi-hashing-vipsmv.git",
         "bignum": "0.12.5",
         "base58-native": "*",
         "async": "*"
